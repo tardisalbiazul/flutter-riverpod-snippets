@@ -8,15 +8,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Add
 
-- `StatefulHookConsumerWidget`.
+- Support for `StatefulHookConsumerWidget`.
 
 ### Update
 
-- Replace `hookConsumer` prefix with `stlessHookConsumer`.
+- Replaced `hookConsumer` prefix with `stlessHookConsumer`.
 
 ### Fix
 
-- Add Constructor with `key` to `ConsumerStatefulWidget`.
+- Added Constructor with `key` to `ConsumerStatefulWidget`.
 
 ### [1.0.2]
 
